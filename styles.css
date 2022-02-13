@@ -1,0 +1,13 @@
+body {
+    display: block;
+    background: whitesmoke;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ft {
+    border-radius: 50px;
+    box-shadow: 1px 1px 1px;
+    display: inline;
+}
